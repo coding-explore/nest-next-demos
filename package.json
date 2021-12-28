@@ -22,8 +22,13 @@
   },
   "dependencies": {
     "@nestjs/common": "^8.2.4",
+    "@nestjs/config": "^1.1.5",
     "@nestjs/core": "^8.2.4",
     "@nestjs/platform-express": "^8.2.4",
+    "@types/react": "^17.0.38",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.5.1"
